@@ -31,10 +31,10 @@
 <H3>Hawkers Go Digital</H3>
 
 <table>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg">HGD_English</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Chinese.jpg">HGD_Chinese</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Malay.jpg">HGD_Malay</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">HGD_Tamil</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg">HGD English</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_Chinese.jpg">HGD Chinese</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_Malay.jpg">HGD Malay</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">HGD Tamil</a></td>
  </table>
  
 <H3>ePayment Tips</H3>
