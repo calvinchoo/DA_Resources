@@ -25,10 +25,10 @@
 <H3>Mobile Access</H3>
 
 <table>
-  <td><a href="/Mobile Access EN1.jpg">English Pg 1</a></td>
-  <td><a href="/Mobile Access EN2.jpg">English Pg 2</a></td>
-  <td><a href="/Mobile Access CH1.jpg">Chinese Pg 1</a></td>
-  <td><a href="/Mobile Access CH2.jpg">Chinese Pg 2</a></td>
+  <td><a href="https://go.gov.sg/mobileaccess-eng">MA English</a></td>
+  <td><a href="https://go.gov.sg/mobileaccess-ch">MA Chinese</a></td>
+  <td><a href="https://go.gov.sg/mobileaccess-ml">MA Malay</a></td>
+  <td><a href="https://go.gov.sg/mobileaccess-tl">MA Tamil</a></td>
  </table>
 
 <H3>Hawkers Go Digital</H3>
