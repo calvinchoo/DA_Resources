@@ -19,8 +19,6 @@
 
 <H2>Flyers & Tips</H2>
 
-<!a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" Google Drive /a>
-  
 <H3>Mobile Access</H3>
 
 <table>
@@ -39,7 +37,7 @@
   <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">HGD_Tamil</a></td>
  </table>
  
-<H3>Seniors Go Digital Tips</H3>
+<H3>ePayment Tips</H3>
 
 <table>
   <tr>
