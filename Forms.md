@@ -18,13 +18,20 @@
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
 
-<H2>Flyers & Tips</H2>
+<H2>Flyers</H2>
 
-<a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a>
+<!<a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a>>
   
+<H3>Mobile Access</H3>
 
+<table>
+  <td><a href="/Mobile Access EN1.jpg">English Pg 1</a></td>
+  <td><a href="/Mobile Access EN2.jpg">English Pg 2</a></td>
+  <td><a href="/Mobile Access CH1.jpg">Chinese Pg 1</a></td>
+  <td><a href="/Mobile Access CH2.jpg">Chinese Pg 2</a></td>
+ </table>
 
-<H3>Hawkers Go Digital Flyers</H3>
+<H3>Hawkers Go Digital</H3>
 
 <table>
   <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg">HGD_English</a></td>
