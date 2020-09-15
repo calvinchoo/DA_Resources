@@ -4,7 +4,6 @@
 
 <body>
 
-
 <a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0" target="_blank" >Temperature logging</a>
 
 <a href="https://eservice.imda.gov.sg/SDOEngage/homepage" target="_blank" >Seniors Engagement</a>
@@ -50,17 +49,6 @@
     <td><a href="ePayments - OCBC.pdf">OCBC</a></td>
     <td><a href="ePayments - UOB.pdf">UOB</a></td>
   </tr>  
-   <tr>
-    <td><a href="res/Chinese Tip Sheet 1.pdf">Chinse Tip Sheet 1</a></td>
-    <td><a href="res/Chinese Tip Sheet 2.pdf">Chinse Tip Sheet 2</a></td>
-    <td><a href="res/Chinese Tip Sheet 3.pdf">Chinse Tip Sheet 3</a></td>
-    <td><a href="res/Chinese Tip Sheet 4.pdf">Chinse Tip Sheet 4</a></td>
-    <td><a href="res/Chinese Tip Sheet 5.pdf">Chinse Tip Sheet 5</a></td>
-    <td><a href="res/Chinese Tip Sheet 6.pdf">Chinse Tip Sheet 6</a></td>
-    <td><a href="res/Chinese Tip Sheet 7.pdf">Chinse Tip Sheet 7</a></td>
-  </tr>
  </table>
-
-
 
 </body>
