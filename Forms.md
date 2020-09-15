@@ -7,20 +7,20 @@
 
 <a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0" target="_blank" >Temperature logging</a>
 
-<a href="http://go.gov.sg/hawkergodigital">Hawker Engagement</a>
+<a href="https://eservice.imda.gov.sg/SDOEngage/homepage" target="_blank" >Seniors Engagement</a>
 
-<a href="https://form.gov.sg/#!/5ef8bf36d05786001138d5ce">Hawker Post Installation</a>
+<a href="https://go.gov.sg/ma-appeal" target="_blank" >Mobile Access Appeals</a>
 
-<a href="https://eservice.imda.gov.sg/SDOEngage/homepage">Seniors Engagement</a>
+<a href="http://go.gov.sg/hawkergodigital" target="_blank" >Hawker Engagement</a>
 
+<a href="https://form.gov.sg/#!/5ef8bf36d05786001138d5ce" target="_blank" >Hawker Post Installation</a>
 
-<a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100">Story Banking</a>
-
-<a href="https://go.gov.sg/ma-appeal">Mobile Access Appeals</a>
-
+<a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
 
-<H2>Flyers & Tips <a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a> </H2>
+<H2>Flyers & Tips</H2>
+
+<a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a>
   
 
 
