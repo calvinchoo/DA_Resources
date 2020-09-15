@@ -18,9 +18,9 @@
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
 
-<H2>Flyers</H2>
+<H2>Flyers & Tips</H2>
 
-<!<a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a>>
+<!a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" Google Drive /a>
   
 <H3>Mobile Access</H3>
 
@@ -40,28 +40,26 @@
   <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">HGD_Tamil</a></td>
  </table>
  
-# <H3>Seniors Go Digital Tip Sheets</H3>
+<H3>Seniors Go Digital Tips</H3>
 
-#<table>
-#  <tr>
-#    <td><a href="res/English Tip Sheet 1.pdf">English Tip Sheet 1</a></td>
-#    <td><a href="res/English Tip Sheet 2.pdf">English Tip Sheet 2</a></td>
-#    <td><a href="res/English Tip Sheet 3.pdf">English Tip Sheet 3</a></td>
-#    <td><a href="res/English Tip Sheet 4.pdf">English Tip Sheet 4</a></td>
-#    <td><a href="res/English Tip Sheet 5.pdf">English Tip Sheet 5</a></td>
-#    <td><a href="res/English Tip Sheet 6.pdf">English Tip Sheet 6</a></td>
-#    <td><a href="res/English Tip Sheet 7.pdf">English Tip Sheet 7</a></td>
-#  </tr>  
-#   <tr>
-#    <td><a href="res/Chinese Tip Sheet 1.pdf">Chinse Tip Sheet 1</a></td>
-#    <td><a href="res/Chinese Tip Sheet 2.pdf">Chinse Tip Sheet 2</a></td>
-@    <td><a href="res/Chinese Tip Sheet 3.pdf">Chinse Tip Sheet 3</a></td>
-#    <td><a href="res/Chinese Tip Sheet 4.pdf">Chinse Tip Sheet 4</a></td>
-#    <td><a href="res/Chinese Tip Sheet 5.pdf">Chinse Tip Sheet 5</a></td>
-#    <td><a href="res/Chinese Tip Sheet 6.pdf">Chinse Tip Sheet 6</a></td>
-#    <td><a href="res/Chinese Tip Sheet 7.pdf">Chinse Tip Sheet 7</a></td>
-#  </tr>
-# </table>
+<table>
+  <tr>
+    <td><a href="ePayments - DASH.pdf">DASH</a></td>
+    <td><a href="ePayments - DBS and POSB.pdf">DBS & POSB</a></td>
+    <td><a href="ePayments - GrabPay.pdf">GrabPay</a></td>
+    <td><a href="ePayments - OCBC.pdf">OCBC</a></td>
+    <td><a href="ePayments - UOB.pdf">UOB</a></td>
+  </tr>  
+   <tr>
+    <td><a href="res/Chinese Tip Sheet 1.pdf">Chinse Tip Sheet 1</a></td>
+    <td><a href="res/Chinese Tip Sheet 2.pdf">Chinse Tip Sheet 2</a></td>
+    <td><a href="res/Chinese Tip Sheet 3.pdf">Chinse Tip Sheet 3</a></td>
+    <td><a href="res/Chinese Tip Sheet 4.pdf">Chinse Tip Sheet 4</a></td>
+    <td><a href="res/Chinese Tip Sheet 5.pdf">Chinse Tip Sheet 5</a></td>
+    <td><a href="res/Chinese Tip Sheet 6.pdf">Chinse Tip Sheet 6</a></td>
+    <td><a href="res/Chinese Tip Sheet 7.pdf">Chinse Tip Sheet 7</a></td>
+  </tr>
+ </table>
 
 
 
