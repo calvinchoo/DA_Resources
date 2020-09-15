@@ -1,6 +1,6 @@
+<H1>DA Resources</H1>
 
-
-<H1>DA Resources - Forms</H1>
+<H2>Forms</H2>
 
 <body>
 
@@ -20,7 +20,7 @@
 
 
 
-<H1>DA Resources - Flyers & Tips<a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a> </H1>
+<H2>Flyers & Tips <a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a> </H2>
   
 
 
