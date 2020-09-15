@@ -24,18 +24,18 @@
   
 
 
-<H3>Flyers</H3>
+<H3>Hawkers Go Digital Flyers</H3>
 
 <table>
-  <tr>
-    <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg">Hawker_English</a></td>
-    <td><a href="/IMDA-004-T20E_Hawker_flyer_Chinese.jpg">Hawker_Chinese</a></td>
+#  <tr>
+    <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg">HGD_English</a></td>
+    <td><a href="/IMDA-004-T20E_Hawker_flyer_Chinese.jpg">HGD_Chinese</a></td>
   
   
-  </tr>  
+#  </tr>  
   
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Malay.jpg">Hawker_Malay</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">Hawker_Tamil</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_Malay.jpg">HGD_Malay</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">HGD_Tamil</a></td>
  </table>
  
 # <H3>Seniors Go Digital Tip Sheets</H3>
