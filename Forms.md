@@ -41,11 +41,13 @@
 
 <table>
   <tr>
-    <td><a href="ePayments - DASH.pdf">DASH</a></td>
     <td><a href="ePayments - DBS and POSB.pdf">DBS & POSB</a></td>
-    <td><a href="ePayments - GrabPay.pdf">GrabPay</a></td>
     <td><a href="ePayments - OCBC.pdf">OCBC</a></td>
     <td><a href="ePayments - UOB.pdf">UOB</a></td>
+  </tr>  
+  <tr>
+    <td><a href="ePayments - DASH.pdf">DASH</a></td>
+    <td><a href="ePayments - GrabPay.pdf">GrabPay</a></td>
   </tr>  
  </table>
 
