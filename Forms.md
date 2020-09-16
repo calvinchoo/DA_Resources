@@ -28,6 +28,13 @@
   <td><a href="https://go.gov.sg/mobileaccess-tl">MA Tamil</a></td>
  </table>
 
+<H3>Activity Pack Prize Redemptions</H3>
+
+<table>
+  <td><a href="/Prize redemption CC.pdf">CC's (open)</a></td>
+  <td><a href="/Prize redemption Libraries.pdf">Libraries (opening soon)</a></td>
+ </table>
+
 <H3>Hawkers Go Digital</H3>
 
 <table>
