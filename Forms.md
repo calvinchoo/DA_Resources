@@ -19,13 +19,22 @@
 
 <H2>Flyers & Tips</H2>
 
-<H3>Mobile Access</H3>
+<H3>Mobile Access Flyers</H3>
 
 <table>
   <td><a href="https://go.gov.sg/mobileaccess-eng">MA English</a></td>
   <td><a href="https://go.gov.sg/mobileaccess-ch">MA Chinese</a></td>
   <td><a href="https://go.gov.sg/mobileaccess-ml">MA Malay</a></td>
   <td><a href="https://go.gov.sg/mobileaccess-tl">MA Tamil</a></td>
+ </table>
+
+<H3>Mobile Access Phone Redemption</H3>
+
+<table>
+  <td><a href="Mobile Access M1 Locations.pdf">M1 Locations</a></td>
+  <td><a href="Mobile Access Singtel Locations.pdf">Singtel Locations</a></td>
+  <td><a href="Mobile Access Starhub Locations.pdf">Starhub Locations</a></td>
+  <td><a href="Mobile Access TPG Locations.pdf">TPG Locations</a></td>
  </table>
 
 <H3>Activity Pack Prize Redemptions</H3>
