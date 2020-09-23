@@ -16,6 +16,8 @@
 
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
+<a href="https://go.gov.sg/hgd-ambassador-form" target="_blank" >Heartlands Go Digital - BA/DA</a>
+
 
 <H2>Flyers & Tips</H2>
 
@@ -31,10 +33,14 @@
 <H3>Mobile Access Phone Redemption</H3>
 
 <table>
+  <tr>
   <td><a href="Mobile Access M1 Locations.pdf">M1 Locations</a></td>
   <td><a href="Mobile Access Singtel Locations.pdf">Singtel Locations</a></td>
+  </tr>
+  <tr>
   <td><a href="Mobile Access Starhub Locations.pdf">Starhub Locations</a></td>
   <td><a href="Mobile Access TPG Locations.pdf">TPG Locations</a></td>
+  </tr>
  </table>
 
 <H3>Activity Pack Prize Redemptions</H3>
@@ -60,11 +66,11 @@
     <td><a href="ePayments - DBS and POSB.pdf">DBS & POSB</a></td>
     <td><a href="ePayments - OCBC.pdf">OCBC</a></td>
     <td><a href="ePayments - UOB.pdf">UOB</a></td>
-  </tr>  
+  </tr>
   <tr>
     <td><a href="ePayments - DASH.pdf">DASH</a></td>
     <td><a href="ePayments - GrabPay.pdf">GrabPay</a></td>
-  </tr>  
+  </tr>
  </table>
 
 </body>
