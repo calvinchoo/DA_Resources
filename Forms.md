@@ -50,6 +50,12 @@
   <td><a href="/Prize redemption Libraries.pdf">Libraries (opening soon)</a></td>
  </table>
 
+<H3>Heartlands Go Digital</H3>
+
+<a href="/Letter of Appointment for HGD_Final.pdf">Letter of Appointment</a>
+<a href="/Engagement workflow for DA.pdf">Workflow</a>
+<a href="/E-payment and Digital Commerce Table Summary.pdf">Table Summary</a>
+
 <H3>Hawkers Go Digital</H3>
 
 <table>
