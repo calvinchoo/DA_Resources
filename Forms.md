@@ -34,48 +34,50 @@
 
 <table>
   <tr>
-  <td><a href="Mobile Access M1 Locations.pdf">M1 Locations</a></td>
-  <td><a href="Mobile Access Singtel Locations.pdf">Singtel Locations</a></td>
+  <td><a href="Mobile Access M1 Locations.pdf" target="_blank" >M1 Locations</a></td>
+  <td><a href="Mobile Access Singtel Locations.pdf" target="_blank" >Singtel Locations</a></td>
   </tr>
   <tr>
-  <td><a href="Mobile Access Starhub Locations.pdf">Starhub Locations</a></td>
-  <td><a href="Mobile Access TPG Locations.pdf">TPG Locations</a></td>
+  <td><a href="Mobile Access Starhub Locations.pdf" target="_blank" >Starhub Locations</a></td>
+  <td><a href="Mobile Access TPG Locations.pdf" target="_blank" >TPG Locations</a></td>
   </tr>
  </table>
 
 <H3>Activity Pack Prize Redemptions</H3>
 
 <table>
-  <td><a href="/Prize redemption CC.pdf">CC's (open)</a></td>
-  <td><a href="/Prize redemption Libraries.pdf">Libraries (opening soon)</a></td>
+  <td><a href="/Prize redemption CC.pdf" target="_blank" >CC's (open)</a></td>
+  <td><a href="/Prize redemption Libraries.pdf" target="_blank" >Libraries (opening soon)</a></td>
  </table>
 
 <H3>Heartlands Go Digital</H3>
 
-<a href="/Letter of Appointment for HGD_Final.pdf">Letter of Appointment</a>
-<a href="/Engagement workflow for DA.pdf">Workflow</a>
-<a href="/E-payment and Digital Commerce Table Summary.pdf">Table Summary</a>
+<a href="/Letter of Appointment for HGD_Final.pdf" target="_blank" >Letter of Appointment</a>
+
+<a href="/Engagement workflow for DA.pdf" target="_blank" >Workflow</a>
+
+<a href="/E-payment and Digital Commerce Table Summary.pdf" target="_blank" >Table Summary</a>
 
 <H3>Hawkers Go Digital</H3>
 
 <table>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg">HGD English</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Chinese.jpg">HGD Chinese</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Malay.jpg">HGD Malay</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">HGD Tamil</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg" target="_blank" >HGD English</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_Chinese.jpg" target="_blank" >HGD Chinese</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_Malay.jpg" target="_blank" >HGD Malay</a></td>
+  <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg" target="_blank" >HGD Tamil</a></td>
  </table>
  
 <H3>ePayment Tips</H3>
 
 <table>
   <tr>
-    <td><a href="ePayments - DBS and POSB.pdf">DBS & POSB</a></td>
-    <td><a href="ePayments - OCBC.pdf">OCBC</a></td>
-    <td><a href="ePayments - UOB.pdf">UOB</a></td>
+    <td><a href="ePayments - DBS and POSB.pdf" target="_blank" >DBS & POSB</a></td>
+    <td><a href="ePayments - OCBC.pdf" target="_blank" >OCBC</a></td>
+    <td><a href="ePayments - UOB.pdf" target="_blank" >UOB</a></td>
   </tr>
   <tr>
-    <td><a href="ePayments - DASH.pdf">DASH</a></td>
-    <td><a href="ePayments - GrabPay.pdf">GrabPay</a></td>
+    <td><a href="ePayments - DASH.pdf" target="_blank" >DASH</a></td>
+    <td><a href="ePayments - GrabPay.pdf" target="_blank" >GrabPay</a></td>
   </tr>
  </table>
 
