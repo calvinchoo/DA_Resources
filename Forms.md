@@ -2,8 +2,6 @@
 
 <body>
 
-<H2>Admin</H2>
-
 <a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0" target="_blank" >Temperature logging</a>
 
 <H2>Seniors Go Digital</H2>
@@ -12,11 +10,11 @@
 
 <a href="http://www.go.gov.sg/eljinterest" target="_blank" >E-Payment Learning Journey Interest Form</a>
 
-<a href="https://go.gov.sg/ma-appeal" target="_blank" >Mobile Access Appeals</a>
-
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
-<H3>Mobile Access Flyers</H3>
+<H3>Mobile Access</H3>
+
+<a href="https://go.gov.sg/ma-appeal" target="_blank" >Mobile Access Appeals</a>
 
 <table>
   <td><a href="https://go.gov.sg/mobileaccess-eng">MA English</a></td>
@@ -25,7 +23,7 @@
   <td><a href="https://go.gov.sg/mobileaccess-tl">MA Tamil</a></td>
  </table>
 
-<H3>Mobile Access Phone Redemption</H3>
+<H4>Phone Redemption</H4>
 
 <table>
   <tr>
@@ -62,15 +60,21 @@
 <H2>Hawkers Go Digital</H2>
 
 <table>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg" target="_blank" >HGD English</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Chinese.jpg" target="_blank" >HGD Chinese</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Malay.jpg" target="_blank" >HGD Malay</a></td>
-  <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg" target="_blank" >HGD Tamil</a></td>
+  <tr>
+    <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg" target="_blank" >HGD English</a></td>
+    <td><a href="/IMDA-004-T20E_Hawker_flyer_Chinese.jpg" target="_blank" >HGD Chinese</a></td>
+  </tr>
+  <tr>
+    <td><a href="/IMDA-004-T20E_Hawker_flyer_Malay.jpg" target="_blank" >HGD Malay</a></td>
+    <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg" target="_blank" >HGD Tamil</a></td>
+  </tr>
  </table>
  
 <a href="http://go.gov.sg/hawkergodigital" target="_blank" >Hawker Engagement</a>
 
 <a href="https://form.gov.sg/#!/5ef8bf36d05786001138d5ce" target="_blank" >Hawker Post Installation</a>
+
+<a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
 <H2>References</H2>
 
