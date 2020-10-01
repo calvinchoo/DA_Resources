@@ -96,4 +96,10 @@
   </tr>
  </table>
 
+<H4>ePayment Promo Codes</H4>
+
+<table>
+  <td><a href="" target="_blank" >Paylah! - <b>GODIGITAL</b></a></td>
+  <td><a href="" target="_blank" >Dash – <b>SGD02</b></a></td>
+
 </body>
