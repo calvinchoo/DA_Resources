@@ -1,10 +1,12 @@
 <H1>DA Resources</H1>
 
-<H2>Forms</H2>
-
 <body>
 
+<H2>Admin</H2>
+
 <a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0" target="_blank" >Temperature logging</a>
+
+<H2>Seniors Go Digital</H2>
 
 <a href="https://eservice.imda.gov.sg/SDOEngage/homepage" target="_blank" >Seniors Engagement</a>
 
@@ -12,16 +14,7 @@
 
 <a href="https://go.gov.sg/ma-appeal" target="_blank" >Mobile Access Appeals</a>
 
-<a href="http://go.gov.sg/hawkergodigital" target="_blank" >Hawker Engagement</a>
-
-<a href="https://form.gov.sg/#!/5ef8bf36d05786001138d5ce" target="_blank" >Hawker Post Installation</a>
-
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
-
-<a href="https://go.gov.sg/hgd-ambassador-form" target="_blank" >Heartlands Go Digital - BA/DA</a>
-
-
-<H2>Flyers & Tips</H2>
 
 <H3>Mobile Access Flyers</H3>
 
@@ -52,7 +45,7 @@
   <td><a href="/Prize redemption Libraries.pdf" target="_blank" >Libraries (opening soon)</a></td>
  </table>
 
-<H3>Heartlands Go Digital</H3>
+<H2>Heartlands Go Digital</H2>
 
 <a href="/Letter of Appointment for HGD_Final.pdf" target="_blank" >Letter of Appointment</a>
 
@@ -60,7 +53,13 @@
 
 <a href="/E-payment and Digital Commerce Table Summary.pdf" target="_blank" >Table Summary</a>
 
-<H3>Hawkers Go Digital</H3>
+<a href="https://go.gov.sg/hgd-ambassador-form" target="_blank" >Heartlands Go Digital - BA/DA</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScdHGz7sxbQkrJ12gcf6TmBLPA7BbCJkcedBOsORD7K-nee0Q/viewform" target="_blank" >GrabPay Registration</a>
+
+<a href="https://college.carousell.com/apply-caroubiz-booster-package/" target="_blank" >CarouBiz Booster Package Application</a>
+
+<H2>Hawkers Go Digital</H2>
 
 <table>
   <td><a href="/IMDA-004-T20E_Hawker_flyer_English.jpg" target="_blank" >HGD English</a></td>
@@ -69,6 +68,12 @@
   <td><a href="/IMDA-004-T20E_Hawker_flyer_Tamil.jpg" target="_blank" >HGD Tamil</a></td>
  </table>
  
+<a href="http://go.gov.sg/hawkergodigital" target="_blank" >Hawker Engagement</a>
+
+<a href="https://form.gov.sg/#!/5ef8bf36d05786001138d5ce" target="_blank" >Hawker Post Installation</a>
+
+<H2>References</H2>
+
 <H3>ePayment Tips</H3>
 
 <table>
