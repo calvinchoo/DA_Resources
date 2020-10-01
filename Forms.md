@@ -1,29 +1,33 @@
-<H1>DA Resources</H1>
+<H2>DA Resources</H2>
 
 <body>
 
 <a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0" target="_blank" >Temperature logging</a>
 
-<H2>Seniors Go Digital</H2>
+<H3>Seniors Go Digital</H3>
 
 <a href="https://eservice.imda.gov.sg/SDOEngage/homepage" target="_blank" >Seniors Engagement</a>
 
-<a href="http://www.go.gov.sg/eljinterest" target="_blank" >E-Payment Learning Journey Interest Form</a>
+<a href="http://www.go.gov.sg/eljinterest" target="_blank" >E-Payment Learning Journey Interest</a>
 
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
-<H3>Mobile Access</H3>
+<H4>Mobile Access</H4>
 
 <a href="https://go.gov.sg/ma-appeal" target="_blank" >Mobile Access Appeals</a>
 
 <table>
-  <td><a href="https://go.gov.sg/mobileaccess-eng">MA English</a></td>
-  <td><a href="https://go.gov.sg/mobileaccess-ch">MA Chinese</a></td>
-  <td><a href="https://go.gov.sg/mobileaccess-ml">MA Malay</a></td>
-  <td><a href="https://go.gov.sg/mobileaccess-tl">MA Tamil</a></td>
+  <tr>
+    <td><a href="https://go.gov.sg/mobileaccess-eng">MA English</a></td>
+    <td><a href="https://go.gov.sg/mobileaccess-ch">MA Chinese</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://go.gov.sg/mobileaccess-ml">MA Malay</a></td>
+    <td><a href="https://go.gov.sg/mobileaccess-tl">MA Tamil</a></td>
+  </tr>
  </table>
 
-<H4>Phone Redemption</H4>
+<H5>Phone Redemption</H5>
 
 <table>
   <tr>
@@ -36,14 +40,14 @@
   </tr>
  </table>
 
-<H3>Activity Pack Prize Redemptions</H3>
+<H4>Activity Pack Prize Redemptions</H4>
 
 <table>
   <td><a href="/Prize redemption CC.pdf" target="_blank" >CC's (open)</a></td>
   <td><a href="/Prize redemption Libraries.pdf" target="_blank" >Libraries (opening soon)</a></td>
  </table>
 
-<H2>Heartlands Go Digital</H2>
+<H3>Heartlands Go Digital</H3>
 
 <a href="/Letter of Appointment for HGD_Final.pdf" target="_blank" >Letter of Appointment</a>
 
@@ -51,13 +55,13 @@
 
 <a href="/E-payment and Digital Commerce Table Summary.pdf" target="_blank" >Table Summary</a>
 
-<a href="https://go.gov.sg/hgd-ambassador-form" target="_blank" >Heartlands Go Digital - BA/DA</a>
+<a href="https://go.gov.sg/hgd-ambassador-form" target="_blank" >Heartlands Go Digital</a>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScdHGz7sxbQkrJ12gcf6TmBLPA7BbCJkcedBOsORD7K-nee0Q/viewform" target="_blank" >GrabPay Registration</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScdHGz7sxbQkrJ12gcf6TmBLPA7BbCJkcedBOsORD7K-nee0Q/viewform" target="_blank" >* GrabPay Registration</a>
 
-<a href="https://college.carousell.com/apply-caroubiz-booster-package/" target="_blank" >CarouBiz Booster Package Application</a>
+<a href="https://college.carousell.com/apply-caroubiz-booster-package/" target="_blank" >* CarouBiz Booster Package Application</a>
 
-<H2>Hawkers Go Digital</H2>
+<H3>Hawkers Go Digital</H3>
 
 <table>
   <tr>
@@ -76,9 +80,9 @@
 
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
-<H2>References</H2>
+<H3>References</H3>
 
-<H3>ePayment Tips</H3>
+<H4>ePayment Tips</H4>
 
 <table>
   <tr>
