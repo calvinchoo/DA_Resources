@@ -8,6 +8,8 @@
 
 <a href="https://eservice.imda.gov.sg/SDOEngage/homepage" target="_blank" >Seniors Engagement</a>
 
+<a href="http://www.go.gov.sg/eljinterest" target="_blank" >E-Payment Learning Journey Interest Form</a>
+
 <a href="https://go.gov.sg/ma-appeal" target="_blank" >Mobile Access Appeals</a>
 
 <a href="http://go.gov.sg/hawkergodigital" target="_blank" >Hawker Engagement</a>
