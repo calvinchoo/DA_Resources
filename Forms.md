@@ -42,7 +42,7 @@
 
 <table>
   <td><a href="/Prize redemption CC.pdf" target="_blank" >CC's (open)</a></td>
-  <td><a href="/Prize redemption Libraries.pdf" target="_blank" >Libraries (opening soon)</a></td>
+  <td><a href="/Prize redemption Libraries.pdf" target="_blank" >Libraries (open)</a></td>
  </table>
 
 <H3>Heartlands Go Digital</H3>
