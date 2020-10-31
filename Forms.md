@@ -14,8 +14,6 @@
 
 <H4>Mobile Access</H4>
 
-<a href="https://go.gov.sg/ma-appeal" target="_blank" >Mobile Access Appeals</a>
-
 <table>
   <tr>
     <td><a href="https://go.gov.sg/mobileaccess-eng">MA English</a></td>
