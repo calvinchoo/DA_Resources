@@ -78,6 +78,14 @@
 
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
+<H4>HGD Lucky Draw</H4>
+
+<a href="/HGD Lucky Draw.pdf" target="_blank" >HGD Lucky Draw Overview</a>
+
+<a href="/HGD Lucky Draw FAQ.pdf" target="_blank" >HGD Lucky Draw FAQ</a>
+
+<a href="/HGD Lucky Draw Briefing.pdf" target="_blank" >HGD Lucky Draw Details</a>
+
 <H3>References</H3>
 
 <H4>ePayment Tips</H4>
