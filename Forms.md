@@ -9,7 +9,7 @@
 <a href="https://eservice.imda.gov.sg/SDOEngage/homepage" target="_blank" >Seniors Engagement</a>
 
 <a href="https://go.gov.sg/postengagementsurvey" target="_blank" >Post Engagement Survey</a>
-<a href="/1 Month Check in - Script  Guide for DAs.pdf" target="_blank" >Post Engagement Script Guide</a>
+<a href="/1 Month Check in - Script  Guide for DAs.pdf" target="_blank" >(DA's Script Guide)</a>
 
 <a href="http://www.go.gov.sg/eljinterest" target="_blank" >E-Payment Learning Journey Interest</a>
 
