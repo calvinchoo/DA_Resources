@@ -19,12 +19,12 @@
 
 <table>
   <tr>
-    <td><a href="https://go.gov.sg/mobileaccess-eng">MA English</a></td>
-    <td><a href="https://go.gov.sg/mobileaccess-ch">MA Chinese</a></td>
+    <td><a href="MAS Flyer English.pdf">MA English</a></td>
+    <td><a href="MAS Flyer Chinese.pdf">MA Chinese</a></td>
   </tr>
   <tr>
-    <td><a href="https://go.gov.sg/mobileaccess-ml">MA Malay</a></td>
-    <td><a href="https://go.gov.sg/mobileaccess-tl">MA Tamil</a></td>
+    <td><a href="MAS Flyer Malay.pdf">MA Malay</a></td>
+    <td><a href="MAS Flyer Tamil.pdf">MA Tamil</a></td>
   </tr>
  </table>
 
