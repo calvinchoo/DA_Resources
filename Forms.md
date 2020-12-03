@@ -11,7 +11,8 @@
 <a href="https://go.gov.sg/postengagementsurvey" target="_blank" >Post Engagement Survey</a>
 <a href="/1 Month Check in - Script  Guide for DAs.pdf" target="_blank" >(DA's Script Guide)</a>
 
-<a href="http://www.go.gov.sg/eljinterest" target="_blank" >E-Payment Learning Journey Interest</a>
+<a href="DA_library_Services_infokit.pdf" target="_blank" >Library Servies</a>
+<a href="Learning Journey (Library)_Training Deck.pdf" target="_blank" >Library Learning Journey</a>
 
 <a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
