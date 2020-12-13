@@ -104,7 +104,13 @@
 <H4>ePayment Promo Codes</H4>
 
 <table>
-  <td><a>Paylah! $5<b>GODIGITAL</b></a></td>
-  <td><a>Dash $2<b>SGD02</b></a></td>
+  <tr>
+    <td><a>Paylah! <b>$5</b></a></td>
+    <td><a>Dash <b>$2</b></a></td>
+  </tr>
+  <tr>
+    <td><a><b>GODIGITAL</b></a></td>
+    <td><a><b>SGD02</b></a></td>
+  </tr>
 
 </body>
