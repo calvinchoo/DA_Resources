@@ -4,17 +4,18 @@
 
 <a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0" target="_blank" >Temperature logging</a>
 
-<H3>Seniors Go Digital</H3>
-
 <a href="https://eservice.imda.gov.sg/SDOEngage/homepage" target="_blank" >Seniors Engagement</a>
 
+<a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
+
+<H3>Seniors Go Digital</H3>
+
 <a href="https://go.gov.sg/postengagementsurvey" target="_blank" >Post Engagement Survey</a>
+
 <a href="/1 Month Check in - Script  Guide for DAs.pdf" target="_blank" >(DA's Script Guide)</a>
 
 <a href="DA_library_Services_infokit.pdf" target="_blank" >Library Servies</a>
 <a href="Learning Journey (Library)_Training Deck.pdf" target="_blank" >Library Learning Journey</a>
-
-<a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
 
 <H4>Mobile Access</H4>
 
@@ -76,12 +77,6 @@
   </tr>
  </table>
  
-<a href="http://go.gov.sg/hawkergodigital" target="_blank" >Hawker Engagement</a>
-
-<a href="https://form.gov.sg/#!/5ef8bf36d05786001138d5ce" target="_blank" >Hawker Post Installation</a>
-
-<a href="https://form.gov.sg/#!/5f3f2a4573437300119fa100" target="_blank" >Story Banking</a>
-
 <H4>HGD Lucky Draw</H4>
 
 <a href="/HGD Lucky Draw.pdf" target="_blank" >HGD Lucky Draw Overview</a>
