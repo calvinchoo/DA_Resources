@@ -14,7 +14,7 @@
 
 <a href="/1 Month Check in - Script  Guide for DAs.pdf" target="_blank" >(DA's Script Guide)</a>
 
-<a href="DA_library_Services_infokit.pdf" target="_blank" >Library Services Infokit</a>
+<a href="DA_library_Services_infokit.pdf" target="_blank" >Library Services Infokit  |  </a>
 <a href="Learning Journey (Library)_Training Deck.pdf" target="_blank" >Library Learning Journey</a>
 
 <H4>Mobile Access</H4>
