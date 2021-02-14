@@ -105,11 +105,11 @@
 
 <table>
   <tr>
-    <td><a>Paylah! <b>FIVELAH</b></a></td>
+    <td><a>Paylah! <b>$5</b></a></td>
     <td><a>Dash <b>$2</b></a></td>
   </tr>
   <tr>
-    <td><a><b>XX</b></a></td>
+    <td><a><b>FIVELAH</b></a></td>
     <td><a><b>SGD02</b></a></td>
   </tr>
 
